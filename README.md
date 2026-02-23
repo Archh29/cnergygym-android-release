@@ -1,40 +1,52 @@
-# Cynergy Gym Android Release
+## Cynergy Gym Fitness Gym – Android Release Repository
 
-This repository hosts the Android release builds (APK) for the Cynergy Gym mobile application.
+This repository hosts official Android release builds (APK) of the Cynergy Gym mobile application. It is maintained exclusively for distribution of verified application releases to authorized users of Cynergy Gym.
 
-## 📲 Download the App
+📲 Application Download
 
-To download the latest APK:
+To download the latest release:
 
-👉 Open the **Releases** page:  
+Visit the Releases page:
 https://github.com/Archh29/cnergygym-android-release/releases
 
-If you don’t see it on the main page, click the **Releases** tab or the tags section above.
+If releases are not visible on the main page, navigate to the Releases or Tags section.
 
-Select the latest version and download the APK file.
+Select the most recent version and download the APK file.
 
-## About
+About the Application
 
-Cynergy Gym is a mobile application for users to:
+The Cynergy Gym mobile application is designed to enhance member experience by providing digital tools for fitness management and engagement. It enables users to:
 
-- Track gym progress  
-- View workout routines  
-- Monitor attendance  
-- Access personal fitness data
+Track workout progress and performance
 
-This repository is used only for distributing release APK builds.
+View personalized training routines
 
-## Versioning
+Monitor attendance history
 
-Releases follow semantic versioning:
+Access fitness-related data
 
-- `v1.0.0` – Initial release  
-- `v1.0.1` – Bug fixes  
-- `v1.1.0` – New features  
-- `v2.0.0` – Major updates
+Hire coaches and book training sessions
 
-## License
+Process secure online payments for memberships and services
 
-This build distribution repository does not contain source code.
+Explore exercise libraries with instructional videos
 
-APK usage is subject to the application’s license.
+View real-time gym occupancy statistics
+
+This repository is used solely for distributing official release builds and does not contain source code or development assets.
+
+Versioning
+
+Releases adhere to semantic versioning for clarity and compatibility:
+
+v1.0.0 – Initial release
+
+v1.0.1 – Bug fixes and stability improvements
+
+v1.1.0 – Feature enhancements
+
+v2.0.0 – Major updates
+
+License
+
+APK distributions are provided under the application’s licensing terms and are intended exclusively for authorized users of Cynergy Gym. Unauthorized modification, redistribution, or reverse engineering of the application is prohibited.
