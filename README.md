@@ -1,21 +1,21 @@
-## Cynergy Gym Fitness Gym – Android Release Repository
+## Cynergy Gym Fitness Gym – Android Release
 
-This repository hosts official Android release builds (APK) of the Cynergy Gym mobile application. It is maintained exclusively for distribution of verified application releases to authorized users of Cynergy Gym.
+Official Android release builds (APK) for the Cynergy Gym mobile application. This repository is used exclusively for distributing verified application releases to authorized users.
 
-📲 Application Download
+📲 Download the Application
 
-To download the latest release:
+To download the latest APK release:
 
-Visit the Releases page:
+Open the Releases page:
 https://github.com/Archh29/cnergygym-android-release/releases
 
-If releases are not visible on the main page, navigate to the Releases or Tags section.
+If releases are not visible on the main page, navigate to the Releases tab or the tags section.
 
-Select the most recent version and download the APK file.
+Select the latest version and download the APK file.
 
 About the Application
 
-The Cynergy Gym mobile application is designed to enhance member experience by providing digital tools for fitness management and engagement. It enables users to:
+The Cynergy Gym mobile application enhances the member experience by providing tools for fitness management and engagement. Users can:
 
 Track workout progress and performance
 
@@ -33,11 +33,11 @@ Explore exercise libraries with instructional videos
 
 View real-time gym occupancy statistics
 
-This repository is used solely for distributing official release builds and does not contain source code or development assets.
+This repository exists solely for distributing official release builds. It does not contain source code or development assets.
 
 Versioning
 
-Releases adhere to semantic versioning for clarity and compatibility:
+Releases follow semantic versioning for clarity and compatibility:
 
 v1.0.0 – Initial release
 
